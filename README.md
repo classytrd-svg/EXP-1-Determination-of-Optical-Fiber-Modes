@@ -65,6 +65,23 @@ Total number of modes = V2 / 2 = 4.912 / 2
 ## Tabulation
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/741131bc-2b13-4434-8ad6-e0c08ec54a08" />
 
-## Result
-The mode characteristics and lower order Linearly Polarized (LP) modes were studied successfully.
+Parameters of given fiber:  
+- Core radius \(A = 4.5 \, \mu m\)  
+- Numerical Aperture \(NA = 0.11\)  
+- Wavelength \(\lambda = 633 \, nm\)  
 
+\[
+V = \frac{2 \pi \cdot A \cdot NA}{\lambda} = 4.91
+\]
+
+- From the figure, only **4 LP modes** propagate.  
+- Total number of modes:  
+
+\[
+\frac{V^2}{2} = \frac{(4.91)^2}{2} \approx 12.05
+\]
+
+---
+
+# Result
+The fiber supports **4 Linearly Polarized (LP) modes** at the given parameters.
